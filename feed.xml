@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Daily Oil Market Index Bulletin</title>
-<link>https://oilmarketindex.com</link>
+<link>https://quantitativegenius.com</link>
 <language>en-us</language>
-<copyright>2026 OilMarketIndex.com</copyright>
+<copyright>2026 QuantitativeGenius.com</copyright>
 <itunes:author>Oil Market Index</itunes:author>
 <itunes:summary>Daily analysis of WTI and Brent Crude oil markets, including market index, price drop threat assessment, and world events impacting oil prices. Published daily at 6:00 AM PDT.</itunes:summary>
 <description>Daily analysis of WTI and Brent Crude oil markets, including market index, price drop threat assessment, and world events impacting oil prices. Published daily at 6:00 AM PDT.</description>
@@ -23,7 +23,7 @@
 <image>
 <url>https://cybersecurityannouncementdotcom.github.io/oil-market-index-podcast/cover.png</url>
 <title>Daily Oil Market Index Bulletin</title>
-<link>https://oilmarketindex.com</link>
+<link>https://quantitativegenius.com</link>
 </image>
 <itunes:image href="https://cybersecurityannouncementdotcom.github.io/oil-market-index-podcast/cover.png"/>
 </channel>
